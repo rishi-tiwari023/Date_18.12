@@ -1,0 +1,45 @@
+.container {
+    height: 100px;
+    width: 500px;
+    border: 3px solid black;
+    display: flex;
+    padding: 10px;
+
+}
+
+.box {
+    border: 2px solid black;
+    height: 60px;
+    width: 60px;
+    margin: 5px;
+
+}
+
+.box1 {
+    background-color: #a0e7e5;
+}
+
+.box2 {
+    background-color: #ffaebc;
+}
+
+.box3 {
+    background-color: #d4bbdd;
+}
+
+.box4 {
+    background-color: #96ad90;
+}
+
+.box5 {
+    background-color: #fbe7c6;
+
+}
+
+.box6 {
+    background-color: #b4f8c8;
+}
+
+.box7 {
+    background-color: #fadcd9;
+}
